@@ -1,5 +1,5 @@
 package com.example.bmicalculator
-
+//App coded by: Jaren Yeap Wei Loon
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
